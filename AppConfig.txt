@@ -1,7 +1,17 @@
 # Application Config
 
+# ---------------------
+# Origin
+
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 
 BACKGROUND_COLOR = White
 
+# ---------------------
+# DevB make changes
+
+SCREEN_WIDTH = 1200
+SCREEN_HEIGHT = 1000
+
+BACKGROUND_COLOR = Black
