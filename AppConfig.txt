@@ -1,10 +1,18 @@
 # Application Config
 
+<<<<<<< HEAD
 # ----------------------
 # Origin
 
 # SCREEN_WIDTH = 800
 # SCREEN_HEIGHT = 600
+=======
+# ---------------------
+# Origin
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+>>>>>>> 16bc254613cdec4fac2a5952b5b1da5f87d55d30
 
 BACKGROUND_COLOR = White
 # ----------------------
@@ -18,3 +26,10 @@ SCREEN_HEIGHT = 800
 
 # ----------------------
 
+# ---------------------
+# DevB make changes
+
+SCREEN_WIDTH = 1200
+SCREEN_HEIGHT = 1000
+
+BACKGROUND_COLOR = Black
