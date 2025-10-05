@@ -1,0 +1,7 @@
+# Application Config
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+
+BACKGROUND_COLOR = White
+
