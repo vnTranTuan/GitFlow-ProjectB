@@ -1,13 +1,18 @@
 # Application Config
 
-# ---------------------
-# Origin
-
+<<<<<<< HEAD
 # ----------------------
 # Origin
 
 # SCREEN_WIDTH = 800
 # SCREEN_HEIGHT = 600
+=======
+# ---------------------
+# Origin
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+>>>>>>> 16bc254613cdec4fac2a5952b5b1da5f87d55d30
 
 BACKGROUND_COLOR = White
 # ----------------------
